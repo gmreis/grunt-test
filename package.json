@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gmreis/grunt-test#readme",
   "devDependencies": {
+    "grunt": "^1.0.3",
     "grunt-release": "^0.14.0"
   }
 }
